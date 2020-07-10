@@ -1,6 +1,4 @@
-# lokaadithireddy22-gmail.com
-ML project (Recommendation system)
-
+RECOMMENDER SYSTEMS:
 
 Exploratory data analysis on MovieLens data.
 
